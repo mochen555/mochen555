@@ -1,15 +1,13 @@
-# Hi there 👋
-
-nice to meet you!!! 
-
-<!--
-**mochen555/mochen555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 # 👋 你好，我是王子俊
 
-**山西大学 | 数据科学与大数据技术专业 | 机器学习探索者**
+**山西大学 | 数据科学与大数据技术专业**
+
+<!--
+**mochen555/mochen555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**mochen555/mochen555**是一个✨_特殊_✨存储库，因为它的`README. js `文件。md`（此文件）出现在你的GitHub配置文件中。**mochen555/mochen555**是一个✨_特殊_✨存储库，因为它的`README. js `文件。md`（此文件）出现在你的GitHub配置文件中。
+
+Here are some ideas to get you started:这里有一些建议可以帮助你开始：这里有一些建议可以帮助你开始：
+-->
+
 
 ## 🚀 关于我
 
@@ -22,9 +20,9 @@ Here are some ideas to get you started:
 ## 🔧 技术栈
 
 ### 📚 编程语言
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)! (Python) (https://img.shields.io/badge/ Python - 3776 ab?style=flat&logo=python&logocolor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)! [SQL] (https://img.shields.io/badge/ - SQL - 4479 - a1?style=flat&logo=mysql&logocolor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)(Java) ! (https://img.shields.io/badge/ - Java - 007396 - ?style=flat&logo=java&logocolor=white)
 
 ### 🛠️ 工具与框架
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -33,8 +31,8 @@ Here are some ideas to get you started:
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 
 ### ☁️ 云服务
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)! (AWS) (https://img.shields.io/badge/ - AWS - 232 f3e?style=flat&logo=amazon aws&logocolor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)![谷歌云](https://img.shields.io/badge/ - google_cloud - 4285 f4?style=flat&logo=google cloud&logocolor=white)
 
 ## 📌 当前学习重点
 
@@ -42,6 +40,7 @@ Here are some ideas to get you started:
 • **RAG技术**：检索增强生成系统的设计与优化
 • **大语言模型**：LLM微调与应用开发
 • **数据处理**：数据清洗、特征工程、数据可视化
+• **图论**：知识图谱构建
 
 ## 🌟 项目经验
 
