@@ -1,86 +1,71 @@
-# 👋 你好，我是王子俊
+# 👋 你好，我是王子俊 | 数据科学与AI开发者
 
-**山西大学 | 数据科学与大数据技术专业**
-
-## 🚀 关于我
-
-• 🌱 目前专注于 **机器学习** 和 **RAG（检索增强生成）** 技术的研究与应用
-• 🔭 对 **自然语言处理** 和 **大语言模型应用开发** 有浓厚兴趣
-• 📊 擅长通过数据分析和建模解决实际问题
-• 🏫 山西大学数据科学与大数据技术专业在读
-• 🧑‍💻 参与多个机器学习相关项目，积累实践经验
-
-## 🔧 技术栈
-
-### 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-### 机器学习框架
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### NLP工具
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat&logo=transformers&logoColor=white)
-
-### 云服务
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-## 📌 当前学习重点
-
-• **机器学习**：监督学习算法优化、无监督学习应用、强化学习基础
-• **RAG技术**：检索系统优化、生成模型微调、端到端系统设计
-• **大语言模型**：LLM微调技术、Prompt工程、应用开发
-• **数据处理**：高效数据清洗方法、自动化特征工程
-• **知识图谱**：图数据库应用、知识表示学习
-
-## 🌟 项目经验
-
-### 1. 基于机器学习的文本分类系统
-• 使用BERT和传统机器学习方法构建文本分类模型
-• 实现TF-IDF、Word2Vec等多种特征提取方法对比
-• 通过模型集成将准确率提升至92%+
-• 技术栈：Python, Scikit-learn, Transformers
-
-### 2. RAG问答系统原型
-• 结合FAISS向量数据库和GPT模型构建问答系统
-• 实现基于语义的文档检索和答案生成
-• 优化检索策略提升回答相关性
-• 技术栈：PyTorch, HuggingFace, FAISS
-
-### 3. 校园数据分析平台
-• 采集并分析校园消费、图书借阅等数据
-• 使用Pandas进行数据清洗和特征工程
-• 通过可视化发现校园服务优化点
-• 技术栈：Python, Pandas, Matplotlib, Seaborn
-
-## 📚 学习资源
-
-常学习的技术平台：
-• [Coursera机器学习专项课程](https://www.coursera.org/specializations/machine-learning-introduction)
-• [HuggingFace NLP课程](https://huggingface.co/course/)
-• [李宏毅深度学习课程](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
-• [Stanford CS224N NLP课程](https://web.stanford.edu/class/cs224n/)
-
-## 📫 联系方式
-
-• 邮箱：wzj@example.com (示例)
-• GitHub：[mochen555](https://github.com/mochen555)
-• 技术博客：[我的博客](https://example.com) (示例)
-
-## 🎯 未来规划
-
-• 深入LLM应用开发，探索行业落地场景
-• 参与开源社区贡献，分享技术经验
-• 撰写技术文章，记录学习历程
-• 提升系统工程能力，构建完整AI解决方案
+**山西大学 · 数据科学与大数据技术 · 2026届**  
+`RAG系统` `知识图谱` `NLP应用` `Python全栈开发`
 
 ---
 
-⭐️ 欢迎访问我的[GitHub主页](https://github.com/mochen555)查看项目，期待技术交流与合作！
+## 🚀 关于我
+
+• 🌱 专注于 **RAG系统优化** 和 **知识图谱应用** 研究  
+• 🔭 对 **大语言模型应用开发** 和 **自然语言处理** 有深厚兴趣  
+• 📊 擅长通过数据分析和算法解决实际问题  
+• 🏆 荣誉：`黑客松项目汇报` · `正大杯市场分析一等奖` · `挑战杯铜奖`  
+• 🏫 山西大学优秀共青团员 | 三好学生 | GPA 3.31/4.5
 
 
+
+---
+
+## 🌟 核心项目
+
+### 🧠 RAG与知识图谱
+1. **[RAG索引策略研究](https://github.com/mochen555/Rag-kg)**  
+   📌 实现多模态索引构建方案，探究索引策略对问答效果的影响  
+   `Python` `LangChain` `向量数据库`
+
+2. **[俄乌冲突RAG问答系统](https://github.com/mochen555/rag_system)**  
+   📌 基于LangChain的论文向量化分割与语义检索系统  
+   `NLP` `文本分割` `语义检索`
+
+3. **[动态知识学习平台](https://github.com/mochen555/kg-learning-platform)**  
+   📌 教育领域知识图谱应用市场分析+原型实现  
+   `知识图谱` `教育科技` `市场分析`
+
+### 📊 数据分析与算法
+4. **[唐代诗歌远读分析](https://github.com/mochen555/Distant-Reading)**  
+   📌 3018首唐诗分词/可视化/历史风格演化研究  
+   `文本分析` `数据可视化` `历史语言学`
+
+5. **[股票撮合系统](https://github.com/mochen555/stock-trading-system)**  
+   📌 基于优先队列的高频交易引擎（处理速度1000条/秒）  
+   `数据结构` `算法优化` `金融科技`
+
+6. **[问卷数据生成器](https://github.com/mochen555/data-generate)**  
+   📌 批量模拟多类型问卷反馈的测试工具  
+   `数据生成` `测试工具` `问卷分析`
+
+---
+
+## 📚 学习与研究
+**当前重点方向**：
+- RAG检索系统优化与生成模型微调
+- 知识图谱的动态构建与更新机制
+- 大语言模型在教育领域的应用
+- 高效数据处理与特征工程
+
+**技术报告**：
+- [基于层级知识图谱的RAG索引建构策略](https://mp.weixin.qq.com/s/X1P7_4F8JuBFGAHACtSNIw)
+- 唐代诗歌风格演变的数据驱动分析
+
+---
+
+## 📫 联系我
+• 📧 邮箱：1520504817@qq.com  
+• 📱 微信：wzj18935198085  
+• 🌐 GitHub：[mochen555](https://github.com/mochen555)  
+• 📞 电话：19135418085
+
+---
+
+⭐️ 欢迎访问我的[GitHub主页](https://github.com/mochen555)探索更多项目，期待技术交流与合作！
